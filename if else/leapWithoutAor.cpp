@@ -8,24 +8,24 @@ int main() {
     cin >> y;
 
     if (y % 400 == 0) {
-        cout<<y;
-        cout<<"is a leap year";
+        cout<<y ;
+        cout<<" is a leap year";
     }
 
 
     else{
         if(y%100==0){
-            cout<<y;
+            cout<<y ;
             cout<<"is not a leap year .";
         }
         else{
             if(y%4==0){
                 cout<<y;
-                cout<<"is a leap year .";
+                cout<<" is a leap year .";
             }
             else{
                 cout<<y;
-                cout<< "is not a leap year. ";
+                cout<<" is not a leap year. ";
 
             }
         }
