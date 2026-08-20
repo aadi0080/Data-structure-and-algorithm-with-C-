@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std; 
 int main (){
+    
     int a ; // a=10
     int b;  // b=3
     cout<<"enter  the both num : ";
@@ -12,4 +13,4 @@ int main (){
     cout<<a<<" "<<b; 
     
 
-}
+} 
