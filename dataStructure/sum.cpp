@@ -10,5 +10,4 @@ int main(){
     }
 
     cout<<"sum is: "<<sum<<endl;
-    cout<<"average is: "<<sum/n;
-}
+    cout<<"average is: "<<sum/
