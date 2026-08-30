@@ -11,7 +11,7 @@ int  main() {
     int x; 
     cout<<"enter  the  no you want  ot  find ";
     cin>>x; 
-    for(int i=0 ; i<=4 ; i++){
+    for(int i=0 ; i<=4 ; i++){      // binary search 
         if(arr[i]==x){
             cout<<arr[i]<<" "<<"at  index  of "<< i;
         }
